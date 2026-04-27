@@ -62,7 +62,7 @@ setInterval(printTime, 1000);
 ```
 
 19. 
-1
-4
-3
+1\
+4\
+3\
 2
