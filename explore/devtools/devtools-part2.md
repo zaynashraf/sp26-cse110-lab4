@@ -1,0 +1,2 @@
+1. The bug is that num1 and num2 are interpreted as strings, meaning they're concatenated instead of being added numerically.
+2. I would do a type conversion to make sure num1 and num2 are interpreted numerically. 
